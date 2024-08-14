@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check https://pro
 
 
 
-Published as Volume 249 by the Proceedings of Machine Learning Research on 19 August 2024.
+Published as Volume 249 by the Proceedings of Machine Learning Research on 14 August 2024.
 
 Volume Edited by:
   * Siddharth Swaroop

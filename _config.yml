@@ -3,9 +3,9 @@ booktitle: Proceedings of the 1st ContinualAI Unconference, 2023
 shortname: CLAI Unconf
 volume: '249'
 year: '2023'
-start: 2023-10-09
+start: &1 2023-10-09
 end: 2023-10-09
-published: 2024-08-19
+published: 2024-08-14
 conference_number: '1'
 layout: proceedings
 series: Proceedings of Machine Learning Research
@@ -30,7 +30,7 @@ description: |
   Proceedings of the 1st ContinualAI Unconference, 2023
     Held in Virtual on 09 October 2023
 
-  Published as Volume 249 by the Proceedings of Machine Learning Research on 19 August 2024.
+  Published as Volume 249 by the Proceedings of Machine Learning Research on 14 August 2024.
 
   Volume Edited by:
     Siddharth Swaroop
