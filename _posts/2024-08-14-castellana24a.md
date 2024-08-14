@@ -34,7 +34,7 @@ author:
   family: Carta
 - given: Davide
   family: Bacciu
-date: 2024-08-19
+date: 2024-08-14
 address:
 container-title: Proceedings of the 1st ContinualAI Unconference, 2023
 volume: '249'
@@ -43,7 +43,7 @@ issued:
   date-parts:
   - 2024
   - 8
-  - 19
+  - 14
 pdf: https://raw.githubusercontent.com/mlresearch/v249/main/assets/castellana24a/castellana24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
