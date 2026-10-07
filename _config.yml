@@ -3,7 +3,7 @@ booktitle: Proceedings of the 1st ContinualAI Unconference, 2023
 shortname: CLAI Unconf
 volume: '249'
 year: '2023'
-start: &1 2023-10-09
+start: 2023-10-09
 end: 2023-10-09
 published: 2024-08-14
 conference_number: '1'
@@ -76,7 +76,7 @@ conference:
   url: https://unconf.continualai.org/
   location: Virtual
   dates:
-  - *1
+  - 2023-10-09
 analytics:
   google:
     tracking_id: UA-92432422-1
